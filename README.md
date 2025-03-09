@@ -23,7 +23,7 @@ Conv_GPT is a **conversational AI model** trained from scratch using the **Perso
 
 ## 📂 **Dataset**  
 
-Conv_GPT is trained using the **[Persona-Chat dataset]
+Conv_GPT is trained using the **[Persona-Chat Truecased dataset](https://huggingface.co/datasets/bavard/personachat_truecased)**
 
 ---
 
