@@ -46,7 +46,7 @@ Here’s the visualization of **training accuracy and loss**:
 ### **Model Configuration**  
 | Parameter       | Value  |
 |----------------|--------|
-| **Vocabulary Size** | `vocab_size` |
+| **Vocabulary Size** | `50257` |
 | **Embedding Dimension** | `384` |
 | **Number of Attention Heads** | `12` |
 | **Number of Layers** | `12` |
