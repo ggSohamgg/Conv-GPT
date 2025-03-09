@@ -41,7 +41,7 @@ Here’s the visualization of **training accuracy and loss**:
 - **Framework:** PyTorch  
 - **GPU:** T4 (Colab)  
 - **Model:** GPT-2 trained from scratch
-- **Total Parameters:** **60M**    
+- **Total Parameters:** **56M**    
 
 ### **Model Configuration**  
 | Parameter       | Value  |
