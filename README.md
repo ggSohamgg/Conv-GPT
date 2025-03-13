@@ -1,21 +1,17 @@
-# 🚀 **Conv_GPT**  
+#  **Conv_GPT**  
 
-Conv_GPT is a **conversational AI model** trained from scratch using the **Persona-Chat** dataset. The goal is to build an **engaging chatbot** capable of understanding and maintaining persona-based dialogues.  
+Conv_GPT is a lightweight conversational AI model designed to facilitate persona-based interactions. Trained on the DailyDialog dataset, it aims to provide engaging and context-aware responses. 
 
 ---
 
-## 🚧 **Project Status**  
-
-🔹 This project is **currently in progress**.  
-🔹 Future updates will include:  
-✅ **Better Model**  
-✅ **Deployment instructions**  
+#  **Deployment**
+🔗 Deployed Link : **[Huggingface](https://huggingface.co/spaces/nnsohamnn/Conv_GPT)**
 
 ---
 
 ## 📌 **Features**  
 
-✔️ **Trainable from scratch** (**≈56M parameters**)  
+✔️ **Trainable from scratch** (**≈89M parameters**)  
 ✔️ **Persona-based conversations**  
 ✔️ **Optimized training with mixed precision**   
 
@@ -23,11 +19,11 @@ Conv_GPT is a **conversational AI model** trained from scratch using the **Perso
 
 ## 📂 **Dataset**  
 
-Conv_GPT is trained using the **[Persona-Chat Truecased dataset](https://huggingface.co/datasets/bavard/personachat_truecased)**
+Conv_GPT is trained using the **[Daily Dialog Dataset](https://huggingface.co/datasets/li2017dailydialog/daily_dialog)**
 
 ---
 
-## 📊 **Training Results**  
+##  **Training Results**  
 
 ### **Training Accuracy & Loss Graphs**  
 Here’s the visualization of **training accuracy and loss**:  
@@ -36,21 +32,21 @@ Here’s the visualization of **training accuracy and loss**:
 
 ---
 
-## 🛠 **Training Setup**  
+##  **Training Setup**  
 
 - **Framework:** PyTorch  
 - **GPU:** T4 (Colab)  
 - **Model:** GPT-2 trained from scratch
-- **Total Parameters:** **56M**    
+- **Total Parameters:** **89M**    
 
 ### **Model Configuration**  
 | Parameter       | Value  |
 |----------------|--------|
 | **Vocabulary Size** | `50257` |
 | **Embedding Dimension** | `384` |
-| **Number of Attention Heads** | `12` |
+| **Number of Attention Heads** | `16` |
 | **Number of Layers** | `12` |
-| **Sequence Length** | `256` |
+| **Max Sequence Length** | `256` |
 ---
 
  
