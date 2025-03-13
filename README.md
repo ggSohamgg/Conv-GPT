@@ -42,7 +42,7 @@ Here’s the visualization of **training accuracy and loss**:
 | Parameter       | Value  |
 |----------------|--------|
 | **Vocabulary Size** | `50257` |
-| **Embedding Dimension** | `384` |
+| **Embedding Dimension** | `512` |
 | **Number of Attention Heads** | `16` |
 | **Number of Layers** | `12` |
 | **Max Sequence Length** | `256` |
