@@ -1,6 +1,6 @@
 #  **Conv_GPT**  
 
-Conv_GPT is a lightweight conversational Transformer-based AI model designed and built from scratch to facilitate persona-based interactions. Trained on the DailyDialog dataset, it aims to provide engaging and context-aware responses while delivering reasonably effective performance within its resource constraints.
+Conv_GPT is a lightweight conversational Transformer-based AI model designed and built from scratch to facilitate persona-based interactions. Trained on the DailyDialog dataset, and fine-tuned on the BlendedTalk dataset , it aims to provide engaging and context-aware responses while delivering reasonably effective performance within its resource constraints.
 
 ---
 
@@ -19,7 +19,7 @@ Conv_GPT is a lightweight conversational Transformer-based AI model designed and
 
 ## 📂 **Dataset**  
 
-Conv_GPT is trained using the **[Daily Dialog Dataset](https://huggingface.co/datasets/li2017dailydialog/daily_dialog)**
+Conv_GPT is trained using the **[Daily Dialog Dataset](https://huggingface.co/datasets/li2017dailydialog/daily_dialog)** and further fine-tuned on the BlendedTalk Dataset
 
 ---
 
