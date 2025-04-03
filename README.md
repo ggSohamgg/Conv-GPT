@@ -48,6 +48,8 @@ Here’s the visualization of **training accuracy and loss**:
 | **Max Sequence Length** | `256` |
 ---
 
+![](https://komarev.com/ghpvc/?username=ggSohamgg)
+
  
 
  
