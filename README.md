@@ -35,7 +35,7 @@ Here’s the visualization of **training accuracy and loss**:
 ##  **Training Setup**  
 
 - **Framework:** PyTorch  
-- **GPU:** T4 (Colab)  
+- **GPU:** T4 (Colab) (Free-Tier) 
 - **Total Parameters:** **89M**    
 
 ### **Model Configuration**  
