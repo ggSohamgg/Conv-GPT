@@ -11,9 +11,9 @@ Conv_GPT is a lightweight conversational Transformer-based AI model designed and
 
 ## 📌 **Features**  
 
-✔️ **Trainable from scratch** (**≈89M parameters**)  
-✔️ **Persona-based conversations**  
-✔️ **Optimized training with mixed precision(FP-16)**   
+- **Trainable from scratch** (**≈89M parameters**)  
+- **Persona-based conversations**  
+- **Optimized training with mixed precision(FP-16)**   
 
 ---
 
